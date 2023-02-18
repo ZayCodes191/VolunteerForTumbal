@@ -1,4 +1,4 @@
-# VolunteerForTumbal
+# Github Study
 Belajar Kolaborasi untuk dicoding indonesia
 
 # Volunter Tumbal Proyek
